@@ -11,8 +11,6 @@ O robô avalia dados climáticos consultando um modelo de Machine Learning e dec
 - [Visão Geral](#visão-geral)
 - [Arquitetura do Sistema](#arquitetura-do-sistema)
 - [Hardware](#hardware)
-  - [Pinagem do ESP32](#pinagem-do-esp32)
-  - [Diagrama de Conexões](#diagrama-de-conexões)
 - [Servidor de IA (Hugging Face)](#servidor-de-ia-hugging-face)
   - [Estrutura de Arquivos](#estrutura-de-arquivos)
   - [Treinando o Modelo](#treinando-o-modelo)
@@ -24,9 +22,7 @@ O robô avalia dados climáticos consultando um modelo de Machine Learning e dec
   - [Modo Teste](#modo-teste)
   - [Fluxo de Operação](#fluxo-de-operação)
   - [Upload](#upload)
-- [Histórico de Commits](#histórico-de-commits)
-- [Estrutura do Repositório](#estrutura-do-repositório)
-- [Licença](#licença)
+
 
 ---
 
