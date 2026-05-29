@@ -47,7 +47,7 @@ O robô avalia dados climáticos consultando um modelo de Machine Learning e dec
 └─────────────────────────────────────────────────────┘
 ```
 
-Uma vez por dia (a cada 24 horas), o ESP32:
+Uma vez por dia o ESP32:
 
 1. Coleta dados climáticos (precipitação, temperatura, ponto de orvalho, umidade, vento).
 2. Envia esses dados via HTTPS para a API no Hugging Face.
